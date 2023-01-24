@@ -755,7 +755,7 @@ aside {
   }
 
   @include from($widescreen) {
-    margin-top: 1rem;
+  //  margin-top: 1rem;
 
     figure figcaption {
       margin-top: 2.625rem;
@@ -1165,38 +1165,41 @@ aside {
 }
 
 // Accordion
-.accordion-head {
-  &::before {
-    @include monospace;
-    font-size: 1.5rem !important;
-    font-weight: normal;
-    content: '+';
-    padding-right: 0.5rem;
-    color: $purple;
+#accordion-basic {
+  .accordion-head {
+    &::before {
+      @include monospace;
+      font-size: 1.5rem !important;
+      font-weight: normal;
+      content: '+';
+      padding-right: 0.5rem;
+      color: $purple;
+    }
+
+    &.open::before {
+      content: '−';
+    }
   }
 
-  &.open::before {
-    content: '−';
+  .accordion-head:hover {
+    cursor: pointer;
+  }
+  .accordion-body {
+    display: none;
+  }
+  .accordion-body.open {
+    display: block;
   }
 }
-
-.accordion-head:hover {
-  cursor: pointer;
-}
-.accordion-body {
-  display: none;
-}
-.accordion-body.open {
-  display: block;
-}
-
 
 // Menu
 
 .menu {
-  border-bottom: 1.5rem solid $grey-light;
-  margin-bottom: 3rem;
-  padding-bottom: 2rem;
+  @include from($widescreen) {
+    border-bottom: 1.5rem solid $grey-light;
+    margin-bottom: 3rem;
+  }
+  padding-bottom: 1rem;
 }
 
 .menu-list a {
@@ -1211,6 +1214,37 @@ aside {
 .menu-label {
   @include monospace;
   text-transform: none !important;
+}
+
+#accordion-menu {
+  @include until($widescreen) {
+
+    .accordion-head {
+      &::before {
+        @include monospace;
+        font-weight: normal;
+        padding-right: 0.5rem;
+        content: '+';
+        color: $purple;
+      }
+
+      &.open::before {
+        content: '−';
+      }
+    }
+
+    .accordion-head:hover {
+      cursor: pointer;
+    }
+
+    .accordion-body {
+      display: none;
+    }
+  }
+
+  .accordion-body.open {
+    display: block;
+  }
 }
 
 // Misc

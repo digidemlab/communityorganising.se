@@ -2,22 +2,26 @@ sv:
   primary:
   - title: Community Organising
     url: /
+  secondary:
+  - title: Ramverket
+    url: /ramverket.html
     items:
-      - title: Community Organising
-        url: /
-      - title: Ramverket
-        url: /ramverket.html
-      - title: Principer
-        url: /principer.html
+#      - title: Community Organising
+#        url: /
+#      - title: Ramverket
+#        url: /ramverket.html
+#      - title: Principer
+#        url: /principer.html
       - title: Olika former av makt
         url: /makt.html
       - title: Lyssna
         url: /lyssna.html
       - title: Agera
         url: /agera.html
-      - title: Resurser
-        url: /resurser.html
-  secondary:
+  - title: Principer
+    url: /principer.html
+  - title: Resurser
+    url: /resurser.html
   - title: Forum
     url: https://forum.communityorganising.se
 en:
