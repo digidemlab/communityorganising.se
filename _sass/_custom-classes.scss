@@ -763,6 +763,13 @@ aside {
   }
 }
 
+.content a > img {
+  max-width: 450px;
+  display: block;
+  margin: 1rem 0 0.3rem
+}
+
+
 .content > figure,
 .content .columns {
   margin-top: 1rem !important;
