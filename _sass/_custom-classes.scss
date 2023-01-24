@@ -543,9 +543,11 @@ svg.logo-dropdown {
 .menu,
 .services,
 .prices,
-.facts {
+.content {
   ul {
     @include monospace;
+    list-style: none;
+    margin: 0;
 
     li {
       padding: 0 0 0.75rem;
