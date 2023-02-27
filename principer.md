@@ -1,5 +1,5 @@
 ---
-title: Principer för utförande
+title: Principer
 image: /uploads/co-principles.jpg
 thumbnail: ''
 menu: services
@@ -11,18 +11,33 @@ lang: sv
 
 ---
 
-
-* Hjälp människor att utveckla sin gemensamma makt genom att agera tillsammans för allas bästa.
-* Sätt människors välmående, utveckling och framsteg främst.
-* Ta ansvar för att upprätthålla kvaliten och andan inom Community Organising.
-* Arbeta för ett rättvist samhälle.
-* Var ärlig och respektfull, upprätthåll den gemensamma tilliten och självförtroendet.
-* Visa respekt för mångfald och främja jämställdhet.
-* Gör inte saker åt andra som de kan göra själva.
-* Förbli partipolitiskt neutral.
-* Utsätt inte dig själv och andra för fara.
-* Lova inte sådant du inte kan hålla.
-* Använd det lokala perspektivet som startpunkt och gå inte snabbare fram än det som krävs.
+* Visa respekt för
+mångfald och främja
+jämlikhet.
+* Hjälp folk att bygga kollektiv
+makt genom att agera
+tillsammans för allas bästa.
+* Gör inte saker åt andra som
+de kan göra själva.
+* Använd inte Community
+Organising för din organisations
+eller dina personliga syften.
+* Sätt människors
+välmående, utveckling
+och framsteg främst.
+* Planera för er grupps
+säkerhet och ta hand
+om varandra.
+* Agera inom lagen. Men om lagen är orättvis,
+ge folk stöd för att kunna förändra den.
+* Agera ärligt och med integritet.
+Förtjäna allmänhetens tillit
+och förtroende.
+* Lova inte sådant du inte
+kan hålla.
+* Utgå från det lokala perspektivet
+och gå framåt i den takt som
+passar gruppen.
 
 ![](/uploads/co-principles-1.png)
 

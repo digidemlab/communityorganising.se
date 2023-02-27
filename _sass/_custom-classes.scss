@@ -616,10 +616,14 @@ aside {
   }
 }
 
+.content table {
+  width: inherit !important;
+}
+
 // Textmarginal
 .content >,
 #accordion-basic {
-   p, h2, h3, h4, ul, ol, blockquote {
+   p, h2, h3, h4, ul, ol, blockquote, table, img {
     @include from($widescreen) {
       margin-left: 33.3333333333%;
       padding-left: $column-gap;
@@ -669,7 +673,7 @@ aside {
   }
 
   p > img {
-    display: inline-block;
+  //  display: inline-block;
     margin-top: 1rem;
 
     @include from($tablet) {
@@ -679,54 +683,11 @@ aside {
         padding-right: 0;
         max-width: 99%;
       }
-
-      &:first-of-type:not(:only-of-type) {
-        max-width: 49%;
-        padding-right: 1%;
-      }
-
-      &:nth-of-type(2) {
-        max-width: 49%;
-        padding: 1%;
-        padding-right: 0;
-      }
     }
 
     @include from($widescreen) {
       margin-bottom: 1rem;
       margin-top: 2rem;
-
-      &:first-of-type {
-        margin-left: -53%;
-        max-width: 155%;
-      }
-
-      &:first-of-type:not(:only-of-type) {
-        max-width: 77%;
-        padding-right: 2%;
-      }
-
-      &:nth-of-type(2) {
-        margin-right: -5%;
-        max-width: 77%;
-        padding-left: 2%;
-      }
-    }
-
-    @include from($fullhd) {
-      &:first-of-type {
-        margin-left: -70.5%;
-        max-width: 207%;
-      }
-
-      &:first-of-type:not(:only-of-type) {
-        max-width: 103%;
-      }
-
-      &:nth-of-type(2) {
-        margin-right: -38%;
-        max-width: 103%;
-      }
     }
 
     &+ em {
@@ -893,7 +854,8 @@ aside {
   // margin-bottom: 2rem;
 }
 
-.content blockquote {
+.content blockquote,
+.content table {
   margin-top: 0.75em;
 }
 .content blockquote:not(:last-child) {
@@ -916,6 +878,10 @@ aside {
   font-weight: bold;
   margin-bottom: 0.25em;
   letter-spacing: -0.03em;
+}
+
+.content h4 {
+  font-size: 1em;
 }
 
 .content h1,

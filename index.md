@@ -7,8 +7,8 @@ excerpt: Community Organising för lokalt ledarskap
 ingress-text: Utveckla din egen och andras förmåga att organisera för att skapa den
   förändring ni vill se!
 links:
-- title: Community Organising Forum
-  url: https://forum.communityorganising.se
+#- title: Community Organising Forum
+#  url: https://forum.communityorganising.se
 - title: 'Digidem Labs kurser i Community Organising'
   url: https://digidemlab.org/community-organising-grasrot/
 contact: true
@@ -16,22 +16,24 @@ lang: sv
 layout: start
 ---
 
-Community Organising eller på svenska - lokal
-organisering - kallar vi det organiserande arbete som
-samlar människor för att agera tillsammans i gemensamma
-frågor och samhällsproblem, med målet att uppnå social
-rättvisa. Lokala organisatörer når ut och lyssnar,
-kopplar ihop och motiverar människor till att bygga
-gemensam makt för att skapa förändring.
-Community Organising är en väl beprövad metod för
-att skapa förändring. Tusentals organisatörer världen
-runt har utvecklat metoden som har blivit känd som
-Community Organsing. Vi bygger vidare på denna metod
-och på svenska kallar vi det för lokal organisering.
-Definitionen och ramverket i detta häfte är inte det
-enda som finns, men det försöker ringa in den bredd av
-metoder och tillvägagångssätt som kallas för Community
-Organising.
+Community Organising är det organiserande arbete som
+samlar människor för att tillsammans ta tag i de
+samhällsproblem de lever med. Lokala organisatörer
+når ut och lyssnar, kopplar ihop och motiverar
+människor till att bygga kollektiv makt. Folk
+definierar, planerar och förhandlar tillsammans för
+att skipa rättvisa och skapa ett bättre liv.
+
+Tusentals organisatörer världen runt har utvecklat
+metoden som har blivit känd som Community Organising.
+Det är en väl beprövad metod för att skapa
+förändring. Vi bygger vidare på denna metod och ger
+här ett smakprov på hur metoden kan tillämpas.
+
+På den här sidan får du en introduktion till
+ramverket, principerna och tankarna bakom Community
+Organising, tillsammans med ett urval av praktiska
+övningar.
 
 ---
 <p class="notification is-primary">

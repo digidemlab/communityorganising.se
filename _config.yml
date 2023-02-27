@@ -14,7 +14,7 @@ collections:
     output: true
 defaults:
 - scope:
-    path: ''
+    path: _pages
     type: pages
   values:
     layout: page
@@ -25,6 +25,14 @@ defaults:
   values:
     layout: page
     lang: en
+- scope:
+    path: ''
+    type: posts
+  values:
+    is_post: true
+    layout: page
+    lang: sv
+    permalink: /ovningar/:title/
 - scope:
     path: ''
     type: crew
@@ -38,7 +46,7 @@ twitter:
   username: digidemlab
 facebook:
   publisher: digidemlab
-logo: "/assets/logotyp.png"
+logo: "/assets/images/digidemlab.svg"
 social:
   links:
   - https://twitter.com/digidemlab
@@ -72,7 +80,7 @@ t:
       image: "/assets/images/logo-agera.jpg"
       url: https://www.facebook.com/ageragoteborg/
     partner-text: '<strong>Community organising för lokalt ledarskap</strong> är ett projekt från <a href="https://digidemlab.org">Digidem Lab</a> med finansiering från Postkodstiftelsen, i samarbete med följande organisationer:'
-    project-link: Läs mer om uppdraget
+    project-link: Läs mer om övningen
     more-projects: Fler uppdrag
     more-services: Läs mer om våra tjänster
     news: Nyheter

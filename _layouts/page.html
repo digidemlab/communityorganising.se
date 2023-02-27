@@ -64,25 +64,27 @@ layout: default
 
     <div class="content">
       {{content}}
-    </div>
+
+
+    {% if page.is_post %}
+      <hr>
+      <h2>Fler övningar</h2>
+
+      {% for item in site.posts %}
+        <h3><a href="{{site.baseurl}}{{item.url}}">{{item.title}}</a></h3>
+        <p>{{ item.ingress-text }}</p>
+      {% endfor %}
+    {% endif %}
+
+  </div>
+
+
   </div>
 </article>
 
-{% if page.services.size > 0 %}
-  {% include services.html %}
-{% endif %}
 
-{% if page.prices.size > 0 %}
-  {% include prices.html %}
-{% endif %}
 
-{% if page.contact %}
-  {% include contact.html %}
-{% endif %}
-
-{% if page.lang == 'sv' and page.is_post %}
-  {% include newsletter.html %}
-{% endif %}
+{% include contact.html %}
 
 {% include partners.html %}
 
