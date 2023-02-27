@@ -347,6 +347,7 @@ a.title {
 
 .navbar-top {
   @include from($desktop) {
+    margin-top: -2rem; //hack
   //  min-height: 7.25rem;
   }
 }
