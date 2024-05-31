@@ -62,6 +62,14 @@ layout: default
     {% endif %}
 
     <div class="content">
+      <p class="notification is-primary">
+        {{ page.alert-text }}
+
+        {% if page.alert-button %}
+        <br><br>
+        <a class="button is-white" href="{{ page.alert-button[0].url }}">{{ page.alert-button[0].title }}</a>
+        {% endif %}
+      </p>
       {{content}}
     </div>
   </div>
