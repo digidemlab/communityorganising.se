@@ -6,15 +6,15 @@ menu: services
 excerpt: Community Organising för lokalt ledarskap
 ingress-text: Utveckla din egen och andras förmåga att organisera för att skapa den
   förändring ni vill se!
-alert-text: Den uppskattade YH-kursen i Community Organsing kommer tillbaka i höst. Fortbildningskursen är skräddarsydd för dig med erfarenhet och passion för samhällsförbättring. Kursen ger nya verktyg och vässar dina nuvarande med skarpa föreläsare. Mer information kommer snart!
-#alert-button:
-#- title: Anmälningsformulär
-#  url: https://form.digidemlab.org
+alert-text: Den uppskattade YH-kursen i Community Organsing kommer tillbaka i höst! Fortbildningskursen är skräddarsydd för dig med erfarenhet och passion för samhällsförbättring. Kursen ger nya verktyg och vässar dina nuvarande med skarpa föreläsare.
+alert-button:
+- title: Ansök här!
+  url: https://form.digidemlab.org/ansokan-yh-kurs-2024/
 links:
 #- title: Community Organising Forum
 #  url: https://forum.communityorganising.se
-#- title: 'Digidem Labs kurser i Community Organising'
-#  url: https://digidemlab.org/community-organising-grasrot/
+- title: 'Digidem Labs kurser i Community Organising'
+  url: https://digidemlab.org/community-organising-grasrot/
 contact: true
 lang: sv
 layout: start
@@ -27,7 +27,9 @@ layout: start
 * 30 YH-poäng
 * Deltid på 12 veckor i Göteborg
 * Kostnadsfri och CSN-berättigad
-<!-- * 1 oktober - 22 december 2024 -->
+* 23 september - 13 december 2024
+* Ansök senast 22 augusti
+
 
 Under utbildningen får du kunskap om ramverket för Community Organising, dess teorier och begreppssystem. Utbildningen går att kombinera med arbete och du arbetar med case från din egen organisation kring utmaningar med att arbeta medlemsstyrt, lyfta lokala ledare, kartlägga makt, organisera hållbart och vara strategiskt långsiktig.
 
