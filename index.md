@@ -6,7 +6,7 @@ menu: services
 excerpt: Community Organising för lokalt ledarskap
 ingress-text: Utveckla din egen och andras förmåga att organisera för att skapa den
   förändring ni vill se!
-alert-text: Den uppskattade YH-kursen i Community Organsing kommer tillbaka i höst! Fortbildningskursen är skräddarsydd för dig med erfarenhet och passion för samhällsförbättring. Kursen ger nya verktyg och vässar dina nuvarande med skarpa föreläsare.
+alert-text: Den uppskattade YH-kursen i Community Organising kommer tillbaka i höst! Fortbildningskursen är skräddarsydd för dig med erfarenhet och passion för samhällsförbättring. Kursen ger nya verktyg och vässar dina nuvarande med skarpa föreläsare.
 alert-button:
 - title: Ansök här!
   url: https://form.digidemlab.org/ansokan-yh-kurs-2024/
