@@ -35,9 +35,40 @@ Under utbildningen får du kunskap om ramverket för Community Organising, dess 
 
 Utbildningen ges av Digidem Lab och Nätverkstan i samarbete med internationella partners inom Community Organising. Utbildningen är framtagen i samarbete med Rädda Barnen, Svenska Kyrkan Göteborgs Stift, Folkets Hus och Parker, Frihamnsdagarna, Navet i Bergsjön, Saqmi, PAGE 28, Positiva Gruppen Göteborg och Göthenburgo och baseras på utmaningar de möter i sitt dagliga arbete och de behov av samverkan och kunskap de ser.
 
+### Upplägg och innehåll
+Utbildningen sker till största del på distans i form
+av gemensamma digitala moment och självständiga
+studier. Tre fysiska träffar (sammanlagt sex heldagar)
+kommer att genomföras i Göteborg men det är även
+möjligt att vid förhinder delta på dessa digitalt via länk.
+Utbildningen är på distans på deltid under 12 veckor
+och går att kombinera med heltidsanställning.
+Utbildningen kommer blanda olika metoder för lärande
+så som litteraturstudier, litteraturseminarier, workshops,
+grupphandledning, föreläsningar och individuellt
+arbete med case/uppdrag.
+
+Utbildningen kommer att ha en digital plattform där
+information är tillgänglig och uppgifter enkelt kan
+lämnas in. Digitala föreläsningar, seminarier och grup-
+phandledning kommer att ske via verktyget Zoom.
+De fysiska träffarna kommer att hållas i Lagerhuset i
+Göteborg. Lokalerna är tillgänglighetsanpassade.
+Vi kommer att träffas tre gånger med två heldagar per
+träff. Träffarna innebär en möjlighet att fördjupa kun-
+skaper och färdigheter genom diskussioner, praktiska
+övningar och presentationer av case/uppdrag. Vid varje
+träff deltar utbildningsledare, föreläsare inom ämnet och
+personer från det arbetsliv som efterfrågat utbildningen.
+
+#### Datum för de fysiska träffarna:
+* 3-4 oktober
+* 7-8 november
+* 5-6 december
+
 * * *
 
-
+### Om Community Organising
 Community Organising är det organiserande arbete som
 samlar människor för att tillsammans ta tag i de
 samhällsproblem de lever med. Lokala organisatörer
