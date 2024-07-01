@@ -75,6 +75,8 @@ layout: default
   </div>
 </article>
 
+{% include partners.html %}
+
 {% if page.services.size > 0 %}
   {% include services.html %}
 {% endif %}
@@ -90,7 +92,5 @@ layout: default
 {% if page.lang == 'sv' and page.is_post %}
   {% include newsletter.html %}
 {% endif %}
-
-{% include partners.html %}
 
 {% include footer.html %}

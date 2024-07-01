@@ -4,7 +4,7 @@ date: 2017-02-23 18:10:00 Z
 categories:
 - Digidem Lab
 image: "/uploads/anna.jpg"
-job: Projektledare
+job: Utbildningsansvarig
 phone: "+46 76 242 28 24"
 mail: anna@digidemlab.org
 ---

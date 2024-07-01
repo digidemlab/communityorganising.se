@@ -4,7 +4,7 @@
       <div class="column is-10-widescreen has-">
     <!-- <h2 class="title section-title has-text-centered">{{site.t[page.lang].partner-title}}</h2> -->
     <p class="has-text-centered mb-1">{{site.t[page.lang].partner-text}}</p><br>
-    <div class="columns partners is-mobile is-multiline">
+    <div class="columns partners is-mobile is-multiline is-desktop">
       {% for item in site.t[page.lang].member %}
         <div class="column is-half-mobile is-half-tablet is-one-quarter-desktop">
               <a href="{{item.url}}" title="{{item.title}}">

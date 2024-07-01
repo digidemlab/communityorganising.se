@@ -22,7 +22,7 @@ lang: sv
 layout: start
 ---
 
-## Kursupplägg YH-kurs
+## Kursupplägg YH-kurs Community Organising
 
 * 30 YH-poäng
 * Deltid på 12 veckor i Göteborg
@@ -32,7 +32,10 @@ layout: start
 
 Under utbildningen får du kunskap om ramverket för Community Organising, dess teorier och begreppssystem. Utbildningen går att kombinera med arbete och du arbetar med case från din egen organisation kring utmaningar med att arbeta medlemsstyrt, lyfta lokala ledare, kartlägga makt, organisera hållbart och vara strategiskt långsiktig.
 
-Utbildningen ges av Digidem Lab och Nätverkstan i samarbete med internationella partners inom Community Organising. Utbildningen är framtagen i samarbete med Rädda Barnen, Svenska Kyrkan Göteborgs Stift, Folkets Hus och Parker, Frihamnsdagarna, Navet i Bergsjön, Saqmi, PAGE 28, Positiva Gruppen Göteborg och Göthenburgo och baseras på utmaningar de möter i sitt dagliga arbete och de behov av samverkan och kunskap de ser.
+Community Organising anordnas av Digidem Lab och Nätverkstan i samarbete med internationella partners inom Community Organising. Kursen finansieras av Myndigheten för Yrkeshögskolan och Västra Götalandsregionen.
+
+
+Utbildningen är framtagen i samarbete med Rädda Barnen, Svenska Kyrkan Göteborgs Stift, Folkets Hus och Parker, Frihamnsdagarna, Navet i Bergsjön, Saqmi, PAGE 28, Positiva Gruppen Göteborg och Göthenburgo och baseras på utmaningar de möter i sitt dagliga arbete och de behov av samverkan och kunskap de ser.
 
 ### Bakgrund
 Civilsamhället i Sverige står inför stora utmaningar.

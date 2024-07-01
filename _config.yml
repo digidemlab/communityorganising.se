@@ -67,19 +67,19 @@ t:
       deltagande demokrati.
     language: Svenska
     member:
-    - title: Rädda Barnen Göteborg
-      image: "/assets/images/logo-raddabarnen.jpg"
-      url: https://www.raddabarnen.se/medlem-och-volontar/lokalforening/vast/vastra-gotalands-lan/goteborg/
-    - title: Göteborgs stift
-      image: "/assets/images/logo-gbgstift.png"
-      url: https://www.svenskakyrkan.se/goteborgsstift
-    - title: Navet i Bergsjön
-      image: "/assets/images/logo-navet.png"
-      url: https://navet.org/
-    - title: Agera Göteborg
-      image: "/assets/images/logo-agera.jpg"
-      url: https://www.facebook.com/ageragoteborg/
-    partner-text: '<strong>Community organising för lokalt ledarskap</strong> är ett metodmaterial som utvecklats av <a href="https://digidemlab.org">Digidem Lab</a> med finansiering från Postkodstiftelsen, i samarbete med följande organisationer:'
+    - title: Myndigheten för Yrkeshögskolan
+      image: "/assets/images/logo-yh.png"
+      url: https://www.myh.se/
+    - title: Västra Götalandsregionen
+      image: "/assets/images/logo-vgr.png"
+      url: https://www.vgregion.se/
+    - title: Nätverkstan
+      image: "/assets/images/logo-natverkstan.png"
+      url: https://www.natverkstan.net/
+    - title: Digidem Lab
+      image: "/assets/images/digidemlab.svg"
+      url: https://digidemlab.org/
+    partner-text: Kursen <strong>Community Organising</strong> anordnas av Digidem Lab och Nätverkstan i samarbete med internationella partners inom Community Organising. Kursen finansieras av Myndigheten för Yrkeshögskolan och Västra Götalandsregionen.
     project-link: Läs mer om övningen
     more-projects: Fler uppdrag
     more-services: Läs mer om våra tjänster
