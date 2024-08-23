@@ -182,7 +182,7 @@ på och mejlar tillbaka. Dina svar kommer vara grund
 för ett urval bland sökande om fler söker kursen än vi
 har platser.
 
-Ansök senast den 22 augusti 2024.
+Ansök senast den 31 augusti 2024.
 
 ### Utbildningsanordnare
 Kursen Community Organiser – strategier för förändringsarbete i en ny tid finansieras av Myndigheten för
