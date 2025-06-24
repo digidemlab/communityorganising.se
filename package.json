@@ -1,12 +1,28 @@
 {
-  "dependencies": {
-    "init": "^0.1.2",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "tinacms": "^2.7.9"
+  "name": "communityorganising.se",
+  "version": "1.0.0",
+  "description": "Public website for Digidem Lab, communityorganising.se",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tinacms dev -c \"bundle exec jekyll serve\"",
+    "build": "tinacms build && bundle exec jekyll build",
+    "tinacms": "tinacms"
   },
-  "devDependencies": {
-    "@tinacms/cli": "^1.9.9",
-    "@types/node": "^24.0.3"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digidemlab/communityorganising.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digidemlab/communityorganising.io/issues"
+  },
+  "homepage": "https://github.com/digidemlab/communityorganising.io#readme",
+  "dependencies": {
+    "tinacms": "^1.5.28",
+    "@tinacms/cli": "^1.5.39",
+    "@types/node": "^20.11.20"
   }
 }
