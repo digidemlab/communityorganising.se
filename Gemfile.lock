@@ -1,7 +1,4 @@
 GEM
-  specs:
-
-GEM
   remote: https://rubygems.org/
   specs:
     activesupport (6.0.4.1)
@@ -278,3 +275,5 @@ PLATFORMS
 DEPENDENCIES
   github-pages!
 
+BUNDLED WITH
+   2.1.4
