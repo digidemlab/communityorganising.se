@@ -1,11 +1,9 @@
 ---
 title: Principer
 image: /uploads/co-principles.jpg
-thumbnail: ''
 menu: services
 excerpt: Principer för framgångsrikt arbete med Community Organising
 ingress-text: Principer för framgångsrikt arbete med Community Organising
-links:
 contact: true
 lang: sv
 

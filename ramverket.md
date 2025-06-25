@@ -3,7 +3,6 @@ title: Ramverket
 image: "/uploads/community organising (1).jpg"
 excerpt: Ramverket ger en översikt över metoderna som används inom lokal organisering.
 ingress-text: Ramverket ger en översikt över metoderna som används inom lokal organisering.
-links:
 contact: true
 lang: sv
 themes:

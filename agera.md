@@ -5,7 +5,6 @@ thumbnail: ''
 menu: services
 excerpt: Från lyssnande till handling
 ingress-text: Från lyssnande till handling
-links:
 contact: true
 lang: sv
 ---

@@ -3,7 +3,6 @@ title: Resurser för organisatörer
 image: "/uploads/community organising (1).jpg"
 excerpt: Boktips, material och länkar för organisatörer
 ingress-text: Boktips, material och länkar för organisatörer
-links:
 contact: true
 lang: sv
 ---
