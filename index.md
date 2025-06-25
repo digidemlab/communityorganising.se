@@ -6,10 +6,10 @@ menu: services
 excerpt: Community Organising för lokalt ledarskap
 ingress-text: Utveckla din egen och andras förmåga att organisera för att skapa den
   förändring ni vill se!
-alert-text: Den uppskattade YH-kursen i Community Organising kommer tillbaka i höst! Fortbildningskursen är skräddarsydd för dig med erfarenhet och passion för samhällsförbättring. Kursen ger nya verktyg och vässar dina nuvarande med skarpa föreläsare. Ansökningstiden är förlängd till 31 augusti.
+alert-text: Den uppskattade YH-kursen i Community Organising kommer tillbaka! Fortbildningskursen är skräddarsydd för dig med erfarenhet och passion för samhällsförbättring. Kursen ger nya verktyg och vässar dina nuvarande med skarpa föreläsare. Ansökningstiden för VT 2026 är öppen!
 alert-button:
 - title: Ansök här!
-  url: https://form.digidemlab.org/ansokan-yh-kurs-2024/
+  url: https://form.digidemlab.org/ansokan-yh-kurs-2025/
 links:
 #- title: Community Organising Forum
 #  url: https://forum.communityorganising.se
@@ -25,10 +25,11 @@ layout: start
 ## Kursupplägg YH-kurs Community Organising
 
 * 30 YH-poäng
-* Deltid på 12 veckor i Göteborg
-* Kostnadsfri och CSN-berättigad
-* 23 september - 13 december 2024
-* Ansökningstid förlängd till 31 augusti
+* 25% studietakt inklusive egna studier
+* Digitala föreläsningar varannan vecka och tre träffar i Göteborg
+* Kostnadsfri
+* 15 december 2025 - 30 maj 2026
+* Ansök är öppen
 
 Under utbildningen får du kunskap om ramverket för Community Organising, dess teorier och begreppssystem. Utbildningen går att kombinera med arbete och du arbetar med case från din egen organisation kring utmaningar med att arbeta medlemsstyrt, lyfta lokala ledare, kartlägga makt, organisera hållbart och vara strategiskt långsiktig.
 
@@ -38,14 +39,7 @@ Community Organising anordnas av Digidem Lab och Nätverkstan i samarbete med in
 Utbildningen är framtagen i samarbete med Rädda Barnen, Svenska Kyrkan Göteborgs Stift, Folkets Hus och Parker, Frihamnsdagarna, Navet i Bergsjön, Saqmi, PAGE 28, Positiva Gruppen Göteborg och Göthenburgo och baseras på utmaningar de möter i sitt dagliga arbete och de behov av samverkan och kunskap de ser.
 
 ### Bakgrund
-Civilsamhället i Sverige står inför stora utmaningar.
-Det offentliga samtalet förskjuts, verksamheter och
-enskilda anställda misstänkliggörs, folkbildningens roll
-i samhället ifrågasätts, resurserna minskar, organisationers och medborgares roll i samhällsutvecklingen
-försummas och rasistiska strukturer i samhället byggs
-ut och förstärks. Samtidigt finns mycket engagemang
-och potential, så många människor som ser lösningar
-och är redo att sammanstråla och bygga något bättre.
+Civilsamhället i Sverige står inför stora utmaningar. Det offentliga samtalet förskjuts, verksamheter och enskilda anställda misstänkliggörs, folkbildningens roll i samhället ifrågasätts, resurserna minskas, organisationers och medborgares roll i samhällsutvecklingen försummas och rasistiska strukturer i samhället byggs ut och förstärks. Samtidigt finns mycket engagemang och potential, så många människor som ser lösningar och är redo att gå samman och bygga något bättre.
 
 Kursen ger tillfälle att tillsammans utforska var Sveriges civilsamhälle står idag och hur våra arbetsmetoder
 och vår kunskap inom organisering kan utvecklas för
@@ -108,9 +102,9 @@ träff deltar utbildningsledare, föreläsare inom ämnet och
 personer från det arbetsliv som efterfrågat utbildningen.
 
 #### Datum för de fysiska träffarna:
-* 3-4 oktober
-* 7-8 november
-* 5-6 december
+* 15-16 januari 2026
+* 5-6 mars 2026
+* 28-29 maj 2026
 
 ### Delkurser, kursmål och examination
 
@@ -188,13 +182,7 @@ Ansök senast den 31 augusti 2024.
 Kursen Community Organiser – strategier för förändringsarbete i en ny tid finansieras av Myndigheten för
 Yrkeshögskolan och anordnas av Nätverkstan i samarbete med Digidem Lab.
 
-[Digidem Lab](https://digidemlab.org) arbetar
-med medborgarråd,
-demokratiskt deltagande och organisering samt digitala
-verktyg för deltagande och transparens. De senaste åren
-har de utforskat Community Organising med lokala
-organisationer och satsar nu på att sprida och tillgängliggöra metodiken i Sverige. Digidem Lab samarbetar med
-ett brett internationellt nätverk av community organisers.
+[Digidem Lab](https://digidemlab.org) arbetar med frågor som rör demokratiskt deltagande – från organisering och medborgarråd till digitala verktyg som stärker transparens och delaktighet. Sedan 2018 har vi fördjupat vårt arbete med community organising. Först med förortsnätverk sedan med större civilsamhällesorganisationer samt genom internationella samarbeten och studier. Vi är en del av ett brett och erfaret internationellt nätverk av community organisers, och vi bygger vidare på den samlade kunskapen för att anpassa och utveckla metoder som fungerar i svensk kontext. Vårt mål är att tillgängliggöra den här kraftfulla metoden i Sverige.
 
 [Nätverkstan](https://www.natverkstan.net/) är ett kunskapscentrum som stöttar och
 utvecklar kulturlivet. Vi är oberoende och icke-vinst-drivande och ägs av tidskriften Ord&Bild, Tidskriftsverkstaden i Väst och studieförbundet Sensus. I mer än
