@@ -168,15 +168,13 @@ Om du är osäker på om du har den erfarenhet som
 krävs, tveka inte att ta kontakt med oss! Vi finns
 tillgängliga på mejl: <yhkurs@digidemlab.org>
 
-Du ansöker till utbildningen med [ansökningsformuläret](https://form.digidemlab.org/ansokan-yh-kurs-2024/).
+Du ansöker till utbildningen med [ansökningsformuläret](https://form.digidemlab.org/ansokan-yh-kurs-2025/).
 
 När vi mottagit din ansökan kommer vi att mejla
 två frågor till dig som vi vill att du svarar skriftligt
 på och mejlar tillbaka. Dina svar kommer vara grund
 för ett urval bland sökande om fler söker kursen än vi
 har platser.
-
-Ansök senast den 31 augusti 2024.
 
 ### Utbildningsanordnare
 Kursen Community Organiser – strategier för förändringsarbete i en ny tid finansieras av Myndigheten för
