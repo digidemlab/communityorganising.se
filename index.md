@@ -13,8 +13,8 @@ alert-text: Den uppskattade YH-kursen i Community Organising kommer tillbaka! Fo
 links:
 #- title: Community Organising Forum
 #  url: https://forum.communityorganising.se
-- title: Ansökningsformulär till YH-kurs
-  url: https://form.digidemlab.org/ansokan-yh-kurs-2025/
+# - title: Ansökningsformulär till YH-kurs
+#  url: https://form.digidemlab.org/ansokan-yh-kurs-2025/
 - title: 'Digidem Labs arbete med Community Organising'
   url: https://digidemlab.org/community-organising-grasrot/
 contact: true
