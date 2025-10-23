@@ -6,10 +6,10 @@ menu: services
 excerpt: Community Organising för lokalt ledarskap
 ingress-text: Utveckla din egen och andras förmåga att organisera för att skapa den
   förändring ni vill se!
-alert-text: Den uppskattade YH-kursen i Community Organising kommer tillbaka! Fortbildningskursen är skräddarsydd för dig med erfarenhet och passion för samhällsförbättring. Kursen ger nya verktyg och vässar dina nuvarande med skarpa föreläsare. Ansökningstiden för VT 2026 är öppen! Deadline för ansökan är 18 oktober.
-alert-button:
-- title: Ansök här!
-  url: https://form.digidemlab.org/ansokan-yh-kurs-2025/
+alert-text: Den uppskattade YH-kursen i Community Organising kommer tillbaka! Fortbildningskursen är skräddarsydd för dig med erfarenhet och passion för samhällsförbättring. Kursen ger nya verktyg och vässar dina nuvarande med skarpa föreläsare. Ansökningstiden för VT 2026 är stängd. En ny kursomgång kommer hösten 2026.
+# alert-button:
+# - title: Ansök här!
+#   url: https://form.digidemlab.org/ansokan-yh-kurs-2025/
 links:
 #- title: Community Organising Forum
 #  url: https://forum.communityorganising.se
@@ -29,8 +29,7 @@ layout: start
 * Digitala föreläsningar varannan vecka och tre träffar i Göteborg
 * Kostnadsfri
 * 15 december 2025 - 30 maj 2026
-* Ansök är öppen
-* Deadline för ansökan är 18 oktober
+* Ansökan till vårens kurs är stängd, en ny kursomgång kommer hösten 2026
 
 Under utbildningen får du kunskap om ramverket för Community Organising, dess teorier och begreppssystem. Utbildningen går att kombinera med arbete och du arbetar med case från din egen organisation kring utmaningar med att arbeta medlemsstyrt, lyfta lokala ledare, kartlägga makt, organisera hållbart och vara strategiskt långsiktig.
 
