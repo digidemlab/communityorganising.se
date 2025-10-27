@@ -77,8 +77,7 @@ gäster som bidrar med sin erfarenhet och kunskap.
 Utbildningen sker till största del på distans i form
 av gemensamma digitala moment och självständiga
 studier. Tre fysiska träffar (sammanlagt sex heldagar)
-kommer att genomföras i Göteborg men det är även
-möjligt att vid förhinder delta på dessa digitalt via länk.
+kommer att genomföras i Göteborg.
 
 Utbildningen är på distans på deltid under 12 veckor
 och går att kombinera med heltidsanställning.
