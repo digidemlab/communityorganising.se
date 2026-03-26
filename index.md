@@ -6,9 +6,9 @@ menu: services
 excerpt: Community Organising för lokalt ledarskap
 ingress-text: Utveckla din egen och andras förmåga att organisera för att skapa den
   förändring ni vill se!
-alert-text: Den uppskattade YH-kursen i Community Organising är tillbaka! Fortbildningskursen är skräddarsydd för dig med erfarenhet och passion för samhällsförbättring. Kursen ger nya verktyg och vässar dina nuvarande med skarpa föreläsare. Ansökan är nu öppen för höstterminen 2026. För att komma till ansökningsformuläret klicka knappen.
+alert-text: Den uppskattade YH-kursen i Community Organising är tillbaka! Fortbildningskursen är skräddarsydd för dig med erfarenhet och passion för samhällsförbättring. Kursen ger nya verktyg och vässar dina nuvarande med skarpa föreläsare. Ansökan är nu öppen för höstterminen 2026. Klicka på knappen för att komma till ansökningsformuläret.
 alert-button:
-- title: Ansökan till Community Organising HT-26
+- title: Ansökan HT-26
   url: https://form.digidemlab.org/ansokan-yh-kurs-i-community-organising-ht-2026/
 links:
 #- title: Community Organising Forum
@@ -103,7 +103,7 @@ personer från det arbetsliv som efterfrågat utbildningen.
 #### Datum för de fysiska träffarna:
 * 3-4 september 2026
 * 15-16 oktober 2026
-* 26-27 november
+* 26-27 november 2026
 
 ### Delkurser, kursmål och examination
 
