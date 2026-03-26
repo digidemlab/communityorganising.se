@@ -6,10 +6,10 @@ menu: services
 excerpt: Community Organising för lokalt ledarskap
 ingress-text: Utveckla din egen och andras förmåga att organisera för att skapa den
   förändring ni vill se!
-alert-text: Den uppskattade YH-kursen i Community Organising kommer tillbaka! Fortbildningskursen är skräddarsydd för dig med erfarenhet och passion för samhällsförbättring. Kursen ger nya verktyg och vässar dina nuvarande med skarpa föreläsare. Ansökningstiden för VT 2026 är stängd. En ny kursomgång kommer hösten 2026.
-# alert-button:
-# - title: Ansök här!
-#   url: https://form.digidemlab.org/ansokan-yh-kurs-2025/
+alert-text: Den uppskattade YH-kursen i Community Organising är tillbaka! Fortbildningskursen är skräddarsydd för dig med erfarenhet och passion för samhällsförbättring. Kursen ger nya verktyg och vässar dina nuvarande med skarpa föreläsare. Ansökan är nu öppen för höstterminen 2026. För att komma till ansökningsformuläret klicka knappen.
+alert-button:
+- title: Ansökan till Community Organising HT-26
+  url: https://form.digidemlab.org/ansokan-yh-kurs-i-community-organising-ht-2026/
 links:
 #- title: Community Organising Forum
 #  url: https://forum.communityorganising.se
@@ -26,10 +26,11 @@ layout: start
 
 * 30 YH-poäng
 * 25% studietakt inklusive egna studier
-* Digitala föreläsningar varannan vecka och tre träffar i Göteborg
 * Kostnadsfri
-* 15 december 2025 - 30 maj 2026
-* Ansökan till vårens kurs är stängd, en ny kursomgång kommer hösten 2026
+* 15 juni 2026 (upprop), med kursträffar mellan 3 september och 27 november
+* Digitala föreläsningar ungefär varannan vecka på torsdagar mellan 17:00-19:00
+* Tre obligatoriska fysiska träffar i Göteborg den 3-4 september, 15-16 oktober och 26-27 november
+* Ansökan till höstterminen är nu öppen och ansökan stänger den 15:e maj, 2026
 
 Under utbildningen får du kunskap om ramverket för Community Organising, dess teorier och begreppssystem. Utbildningen går att kombinera med arbete och du arbetar med case från din egen organisation kring utmaningar med att arbeta medlemsstyrt, lyfta lokala ledare, kartlägga makt, organisera hållbart och vara strategiskt långsiktig.
 
@@ -79,8 +80,7 @@ av gemensamma digitala moment och självständiga
 studier. Tre fysiska träffar (sammanlagt sex heldagar)
 kommer att genomföras i Göteborg.
 
-Utbildningen är på distans på deltid under 12 veckor
-och går att kombinera med heltidsanställning.
+Utbildningen är på deltid under 12 veckor och går att kombinera med heltidsanställning.
 
 Utbildningen kommer blanda olika metoder för lärande
 så som litteraturstudier, litteraturseminarier, workshops,
@@ -101,9 +101,9 @@ träff deltar utbildningsledare, föreläsare inom ämnet och
 personer från det arbetsliv som efterfrågat utbildningen.
 
 #### Datum för de fysiska träffarna:
-* 15-16 januari 2026
-* 5-6 mars 2026
-* 28-29 maj 2026
+* 3-4 september 2026
+* 15-16 oktober 2026
+* 26-27 november
 
 ### Delkurser, kursmål och examination
 
@@ -167,13 +167,8 @@ Om du är osäker på om du har den erfarenhet som
 krävs, tveka inte att ta kontakt med oss! Vi finns
 tillgängliga på mejl: <yhkurs@digidemlab.org>
 
-Du ansöker till utbildningen med [ansökningsformuläret](https://form.digidemlab.org/ansokan-yh-kurs-2025/).
+Du ansöker till utbildningen via ansökningsformuläret, länken finns högst upp på denna sida.
 
-När vi mottagit din ansökan kommer vi att mejla
-två frågor till dig som vi vill att du svarar skriftligt
-på och mejlar tillbaka. Dina svar kommer vara grund
-för ett urval bland sökande om fler söker kursen än vi
-har platser.
 
 ### Utbildningsanordnare
 Kursen Community Organiser – strategier för förändringsarbete i en ny tid finansieras av Myndigheten för
