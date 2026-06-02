@@ -6,6 +6,7 @@ menu: services
 excerpt: Community Organising för lokalt ledarskap
 ingress-text: Utveckla din egen och andras förmåga att organisera för att skapa den
   förändring ni vill se!
+alert-text: Ansökan till Community Organising-kursen i höstas 2026 är nu stängd, men vi öppnar snart igen för vårterminen 2027!
 # alert-text: Den uppskattade YH-kursen i Community Organising är tillbaka! Fortbildningskursen är skräddarsydd för dig med erfarenhet och passion för samhällsförbättring. Kursen ger nya verktyg och vässar dina nuvarande med skarpa föreläsare. Ansökan är nu öppen för höstterminen 2026. Klicka på knappen för att komma till ansökningsformuläret.
 # alert-button:
 # - title: Ansökan HT-26
