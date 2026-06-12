@@ -27,9 +27,6 @@ layout: start
 * 30 YH-poäng
 * 25% studietakt inklusive egna studier
 * Kostnadsfri
-# * 15 juni 2026 (upprop), med kursträffar mellan 3 september och 27 november
-# * Digitala föreläsningar ungefär varannan vecka på torsdagar mellan 17:00-19:00
-# * Tre obligatoriska fysiska träffar i Göteborg den 3-4 september, 15-16 oktober och 26-27 november
 * Ansökan till vårterminen 2027 är nu öppen!
 
 Under utbildningen får du kunskap om ramverket för Community Organising, dess teorier och begreppssystem. Utbildningen går att kombinera med arbete och du arbetar med case från din egen organisation kring utmaningar med att arbeta medlemsstyrt, lyfta lokala ledare, kartlägga makt, organisera hållbart och vara strategiskt långsiktig.
@@ -101,9 +98,6 @@ personer från det arbetsliv som efterfrågat utbildningen.
 
 #### Datum för de fysiska träffarna:
 Vi ses i Göteborg 3 gånger och varje träff är 2 heldagar. Vi återkommer med datum för de fysiska träffarna i Göteborg.
-# * 3-4 september 2026
-# * 15-16 oktober 2026
-# * 26-27 november 2026
 
 ### Delkurser, kursmål och examination
 
