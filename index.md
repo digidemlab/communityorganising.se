@@ -6,13 +6,13 @@ menu: services
 excerpt: Community Organising för lokalt ledarskap
 ingress-text: Utveckla din egen och andras förmåga att organisera för att skapa den
   förändring ni vill se!
-alert-text: Ansökan till Community Organising-kursen i höstas 2026 är nu stängd, men vi öppnar snart igen för vårterminen 2027!
-# alert-text: Den uppskattade YH-kursen i Community Organising är tillbaka! Fortbildningskursen är skräddarsydd för dig med erfarenhet och passion för samhällsförbättring. Kursen ger nya verktyg och vässar dina nuvarande med skarpa föreläsare. Ansökan är nu öppen för höstterminen 2026. Klicka på knappen för att komma till ansökningsformuläret.
-# alert-button:
-# - title: Ansökan HT-26
-#  url: https://form.digidemlab.org/ansokan-yh-kurs-i-community-organising-ht-2026/
+# alert-text: Ansökan till Community Organising-kursen i är nu stängd, men vi öppnar snart igen för nästa terminen!
+alert-text: Den uppskattade YH-kursen i Community Organising är tillbaka! Fortbildningskursen är skräddarsydd för dig med erfarenhet och passion för samhällsförbättring. Kursen ger nya verktyg och vässar dina nuvarande med skarpa föreläsare. Ansökan är nu öppen för vårterminen 2027. Klicka på knappen för att komma till ansökningsformuläret.
+alert-button:
+ - title: Ansökan VT-26
+ url: https://form.digidemlab.org/ansokan-yh-kurs-i-community-organising-vt-2027/
 links:
-#- title: Community Organising Forum
+# - title: Community Organising Forum
 #  url: https://forum.communityorganising.se
 # - title: Ansökningsformulär till YH-kurs
 #  url: https://form.digidemlab.org/ansokan-yh-kurs-2025/
@@ -28,15 +28,14 @@ layout: start
 * 30 YH-poäng
 * 25% studietakt inklusive egna studier
 * Kostnadsfri
-* 15 juni 2026 (upprop), med kursträffar mellan 3 september och 27 november
-* Digitala föreläsningar ungefär varannan vecka på torsdagar mellan 17:00-19:00
-* Tre obligatoriska fysiska träffar i Göteborg den 3-4 september, 15-16 oktober och 26-27 november
-* Ansökan till höstterminen är nu stängt (vi öppnar ansökan för vårterminen 2027 snart)
+# * 15 juni 2026 (upprop), med kursträffar mellan 3 september och 27 november
+# * Digitala föreläsningar ungefär varannan vecka på torsdagar mellan 17:00-19:00
+# * Tre obligatoriska fysiska träffar i Göteborg den 3-4 september, 15-16 oktober och 26-27 november
+* Ansökan till vårterminen 2027 är nu öppen!
 
 Under utbildningen får du kunskap om ramverket för Community Organising, dess teorier och begreppssystem. Utbildningen går att kombinera med arbete och du arbetar med case från din egen organisation kring utmaningar med att arbeta medlemsstyrt, lyfta lokala ledare, kartlägga makt, organisera hållbart och vara strategiskt långsiktig.
 
 Community Organising anordnas av Digidem Lab och Nätverkstan i samarbete med internationella partners inom Community Organising. Kursen finansieras av Myndigheten för Yrkeshögskolan och Västra Götalandsregionen.
-
 
 Utbildningen är framtagen i samarbete med Rädda Barnen, Svenska Kyrkan Göteborgs Stift, Folkets Hus och Parker, Frihamnsdagarna, Navet i Bergsjön, Saqmi, PAGE 28, Positiva Gruppen Göteborg och Göthenburgo och baseras på utmaningar de möter i sitt dagliga arbete och de behov av samverkan och kunskap de ser.
 
@@ -102,9 +101,10 @@ träff deltar utbildningsledare, föreläsare inom ämnet och
 personer från det arbetsliv som efterfrågat utbildningen.
 
 #### Datum för de fysiska träffarna:
-* 3-4 september 2026
-* 15-16 oktober 2026
-* 26-27 november 2026
+Vi ses i Göteborg 3 gånger och varje träff är 2 heldagar. Vi återkommer med datum för de fysiska träffarna i Göteborg.
+# * 3-4 september 2026
+# * 15-16 oktober 2026
+# * 26-27 november 2026
 
 ### Delkurser, kursmål och examination
 
@@ -172,8 +172,7 @@ Du ansöker till utbildningen via ansökningsformuläret, länken finns högst u
 
 
 ### Utbildningsanordnare
-Kursen Community Organiser – strategier för förändringsarbete i en ny tid finansieras av Myndigheten för
-Yrkeshögskolan och anordnas av Nätverkstan i samarbete med Digidem Lab.
+Kursen finansieras av Myndigheten för Yrkeshögskolan och Västra Götalandsregionen, och anordnas av Nätverkstan i samarbete med Digidem Lab.
 
 [Digidem Lab](https://digidemlab.org) arbetar med frågor som rör demokratiskt deltagande – från organisering och medborgarråd till digitala verktyg som stärker transparens och delaktighet. Sedan 2018 har vi fördjupat vårt arbete med community organising. Först med förortsnätverk sedan med större civilsamhällesorganisationer samt genom internationella samarbeten och studier. Vi är en del av ett brett och erfaret internationellt nätverk av community organisers, och vi bygger vidare på den samlade kunskapen för att anpassa och utveckla metoder som fungerar i svensk kontext. Vårt mål är att tillgängliggöra den här kraftfulla metoden i Sverige.
 
