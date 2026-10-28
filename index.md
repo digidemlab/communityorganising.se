@@ -5,7 +5,10 @@ thumbnail: ''
 menu: services
 excerpt: Community Organising för lokalt ledarskap
 ingress-text: Utveckla din egen och andras förmåga att organisera för att skapa den förändring ni vill se!
-alert-text: Ansökan är nu öppen för vårterminen 2027. Den uppskattade YH-kursen i Community Organising är tillbaka! Fortbildningskursen är skräddarsydd för dig med erfarenhet och passion för samhällsförbättring. Kursen ger nya verktyg och vässar dina nuvarande med skarpa föreläsare. Sista ansökningsdag är 15 november 2026.
+alert-text:
+- title: Ansökan är nu öppen för vårterminen 2027.
+- content:  Den uppskattade YH-kursen i Community Organising är tillbaka! Fortbildningskursen är skräddarsydd för dig med erfarenhet och passion för samhällsförbättring. Kursen ger nya verktyg och vässar dina nuvarande med skarpa föreläsare.
+- tag: Sista ansökningsdag är 15 november 2026.
 alert-button:
 - title: Ansök här
   url: https://form.digidemlab.org/ansokan-yh-kurs-i-community-organising-vt-2027/
@@ -21,12 +24,12 @@ lang: sv
 layout: start
 ---
 
-## Kursupplägg YH-kurs Community Organising
+## Kursupplägg YH-kurs Community Organising VT2027
 
 * 30 YH-poäng
 * 25% studietakt inklusive egna studier
 * Kostnadsfri
-* Ansökan till vårterminen 2027 är nu öppen!
+* Sista ansökningsdag: 15 november 2026
 
 Under utbildningen får du kunskap om ramverket för Community Organising, dess teorier och begreppssystem. Utbildningen går att kombinera med arbete och du arbetar med case från din egen organisation kring utmaningar med att arbeta medlemsstyrt, lyfta lokala ledare, kartlägga makt, organisera hållbart och vara strategiskt långsiktig.
 
@@ -96,7 +99,10 @@ träff deltar utbildningsledare, föreläsare inom ämnet och
 personer från det arbetsliv som efterfrågat utbildningen.
 
 #### Datum för de fysiska träffarna:
-Vi ses i Göteborg 3 gånger och varje träff är 2 heldagar. Vi återkommer med datum för de fysiska träffarna i Göteborg.
+Vi ses i Göteborg 3 gånger och varje träff är 2 heldagar på torsdag och fredag.
+* 14–15 januari 2027
+* 4–5 mars 2027
+* 21–22 maj 2027
 
 ### Delkurser, kursmål och examination
 
