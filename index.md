@@ -5,7 +5,7 @@ thumbnail: ''
 menu: services
 excerpt: Community Organising för lokalt ledarskap
 ingress-text: Utveckla din egen och andras förmåga att organisera för att skapa den förändring ni vill se!
-alert-text: Ansökan är nu öppen för vårterminen 2027. Den uppskattade YH-kursen i Community Organising är tillbaka! Fortbildningskursen är skräddarsydd för dig med erfarenhet och passion för samhällsförbättring. Kursen ger nya verktyg och vässar dina nuvarande med skarpa föreläsare. Sista ansökningsdag är 15 november 2026.
+alert-text: Ansökan är nu öppen för vårterminen 2027. Den uppskattade YH-kursen i Community Organising är tillbaka! Fortbildningskursen är skräddarsydd för dig med erfarenhet och passion för samhällsförbättring. Kursen ger nya verktyg och vässar dina nuvarande med skarpa föreläsare. Vi har förlängt sista ansökningsdagen till lördag 21 november.
 alert-button:
 - title: Ansök här
   url: https://form.digidemlab.org/ansokan-yh-kurs-i-community-organising-vt-2027/
@@ -26,7 +26,7 @@ layout: start
 * 30 YH-poäng
 * 25% studietakt inklusive egna studier
 * Kostnadsfri
-* Sista ansökningsdag: 15 november 2026
+* Sista ansökningsdag: 21 november 2026
 
 Under utbildningen får du kunskap om ramverket för Community Organising, dess teorier och begreppssystem. Utbildningen går att kombinera med arbete och du arbetar med case från din egen organisation kring utmaningar med att arbeta medlemsstyrt, lyfta lokala ledare, kartlägga makt, organisera hållbart och vara strategiskt långsiktig.
 
